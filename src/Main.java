@@ -157,7 +157,7 @@ public class Main {
             System.out.println();
             System.out.println(Colores.BLACK + Colores.WHITE_BACKGROUND + "Hola administrador" + Colores.RESET);
             System.out.println();
-            System.out.println("1-Crear vuelo");
+            System.out.println("1-Deshacer Vuelo"); //antes ponia Crear Vuelo
             System.out.println();
             System.out.println("2-Visualizar vuelos");
             System.out.println();
